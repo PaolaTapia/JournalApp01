@@ -1,4 +1,4 @@
-import Swal from 'sweetalert2'
+import Swal from 'sweetalert2';
 
 import {firebase, googleAuthProvider} from '../firebase/firebase-config'; 
 import { types } from "../types/types";
